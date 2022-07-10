@@ -2,7 +2,7 @@ Non-default Marz Guitar Parameters,
 ,
 Body,
 Back Thickness,30
-Length,175
+Length,0
 Top Thickness,0
 ,
 Bridge,
@@ -16,7 +16,7 @@ Fretboard,
 End Radius,350
 Start Radius,350
 Fret Nipping,0
-Start Margin,25
+Start Margin,40
 Start Radius,350
 Thickness,4
 ,
