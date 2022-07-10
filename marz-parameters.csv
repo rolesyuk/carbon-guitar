@@ -1,0 +1,45 @@
+Non-default Marz Guitar Parameters,
+,
+Body,
+Back Thickness,30
+Length,175
+Top Thickness,0
+,
+Bridge,
+String Distance Proj,51.5
+,
+Fret Wire,
+Tang Depth,1.9
+Tang Width,0.58
+,
+Fretboard,
+End Radius,350
+Start Radius,350
+Fret Nipping,0
+Start Margin,25
+Start Radius,350
+Thickness,4
+,
+Head Stock,
+Volute Offset,0
+,
+Neck,
+End Thickness,16
+Joint,Trough All
+Joint Fret,16
+Profile,D Classic
+Start Thickness,16
+Top Offset,0
+Transition Length,100
+Transition Tension,85
+,
+Nut,
+Depth,4
+String Distance Proj,34.5
+,
+Scale,
+Bass,628.65
+Treble,628.65
+,
+Truss Rod,
+Depth,0
