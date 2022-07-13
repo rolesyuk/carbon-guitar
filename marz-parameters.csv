@@ -15,7 +15,7 @@ Tang Width,0.58
 Fretboard,
 End Radius,350
 Fret Nipping,0
-Side Margin,3.3
+Side Margin,4.3
 Start Margin,40
 Start Radius,350
 Thickness,4
@@ -24,11 +24,11 @@ Head Stock,
 Volute Offset,0
 ,
 Neck,
-End Thickness,16
+End Thickness,17
 Joint,Trough All
 Joint Fret,16
 Profile,D Classic
-Start Thickness,16
+Start Thickness,17
 Top Offset,0
 Transition Length,100
 Transition Tension,85
