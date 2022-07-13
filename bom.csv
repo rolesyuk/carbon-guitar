@@ -1,38 +1,44 @@
 Availability,Part,Name,Qty,Price (RUB),Total (RUB),Link
 ,,,,,,
 ,Body,,,,,
-Ordered,Resin,G. Angeloni EPR 320 + EPH 943,2,2250,4500,https://formula-carbon.ru/katalog-materialov/smoly/gotovye-komplekty/epoksidnaya-smola-epr-320-otverditel-eph-943/
-Ordered,Fiber,Ortex Glass Fabric 360 g/m²,10,195,1950,https://formula-carbon.ru/katalog-materialov/tkani/steklotkan/steklotkani-rossiya/steklotkan-ortex-360-gm-glass-fabric-ortex-360-gm-/
-Ordered,Fiber,G. Angeloni GG206P carbon plain,1,2450,2450,https://formula-carbon.ru/katalog-materialov/tkani/karbon/ugletkani-perepletennye-g-angeloni/ugletkan-gg-206-r/
-Ordered,Adhesive,Bapco Carbonfix,1,1350,1350,https://formula-carbon.ru/katalog-materialov/klei/sprey-kley-carbonfix/
-Ordered,Release Agent,Formula Carbon Basic Wax,1,640,640,https://formula-carbon.ru/katalog-materialov/razdelitelnye-sostavy/razdeliteli-izhwax/razdelitelnyy-vosk-formula-karbon-bazovyy/
-Ordered,Bags,VFC50/150,10,175,1750,https://formula-carbon.ru/katalog-materialov/vakuumnye-materialy/plenki/vakuumnaya-plenka/
-Ordered,Bagging Sleeve,AH-12.5,10,180,1800,https://formula-carbon.ru/katalog-materialov/vakuumnye-materialy/plenki/vakuumnyy-rukav-dlya-polyh-konstrukciy-ah-12-5/
-Ordered,Bagging Sleeve,AH-25,10,210,2100,https://formula-carbon.ru/katalog-materialov/vakuumnye-materialy/plenki/vakuumnyy-rukav-dlya-polyh-konstrukciy-ah-25/
-Ordered,Bag connector,T-type 6mm,10,60,600,https://formula-carbon.ru/katalog-materialov/vakuumnye-materialy/trubki-porty-konnektory/konnektory-t-tipa-6-mm/
-Ordered,Peel Ply,CNR/PE 85 g/m2,2,240,480,https://formula-carbon.ru/katalog-materialov/vakuumnye-materialy/setki/peelply-zhertvennaya-tkan-cnrp/
-Ordered,Bag Gum Tape,G. Angeloni AN-3-1,2,840,1680,https://formula-carbon.ru/katalog-materialov/vakuumnye-materialy/zhguty/zhgut-germetiziruyuschiy-an-3-tonkiy/
-Ordered,Bag Gum Tape,BST204,2,900,1800,https://formula-carbon.ru/katalog-materialov/vakuumnye-materialy/zhguty/zhgut-chn/
-Ordered,Infusion Mesh,QFM230/120,2,295,590,https://formula-carbon.ru/katalog-materialov/vakuumnye-materialy/setki/setka-bystraya/
-Ordered,Absorber,Polyester absorber 150 g/m²,2,190,380,https://formula-carbon.ru/katalog-materialov/vakuumnye-materialy/setki/vpityvayuschiy-sloy-150-gm-non-woven-polyester-absorber-150-gm-/
-Ordered,Vacuum Meter,ТВ-320Р,1,1690,1690,https://formula-carbon.ru/oborudovanie/vakuumnoe-oborudovanie/shlangi-porty-konnektory/vakuumetr-vibroustoychivyy/
-Ordered,PE Tube,6/8mm,5,105,525,https://formula-carbon.ru/katalog-materialov/vakuumnye-materialy/trubki-porty-konnektory/shlang-dlya-vakuumnogo-nasosa-68-mm/
+Yes,Resin,G. Angeloni EPR 320 + EPH 943,2,2250,4500,https://formula-carbon.ru/katalog-materialov/smoly/gotovye-komplekty/epoksidnaya-smola-epr-320-otverditel-eph-943/
+Yes,Fiber,Ortex Glass Fabric 360 g/m²,10,195,1950,https://formula-carbon.ru/katalog-materialov/tkani/steklotkan/steklotkani-rossiya/steklotkan-ortex-360-gm-glass-fabric-ortex-360-gm-/
+Yes,Fiber,G. Angeloni GG206P carbon plain,1,2450,2450,https://formula-carbon.ru/katalog-materialov/tkani/karbon/ugletkani-perepletennye-g-angeloni/ugletkan-gg-206-r/
+Yes,Adhesive,Bapco Carbonfix,1,1350,1350,https://formula-carbon.ru/katalog-materialov/klei/sprey-kley-carbonfix/
+Yes,Release Agent,Formula Carbon Basic Wax,1,640,640,https://formula-carbon.ru/katalog-materialov/razdelitelnye-sostavy/razdeliteli-izhwax/razdelitelnyy-vosk-formula-karbon-bazovyy/
+Yes,Bags,VFC50/150,10,175,1750,https://formula-carbon.ru/katalog-materialov/vakuumnye-materialy/plenki/vakuumnaya-plenka/
+Yes,Bagging Sleeve,AH-12.5,10,180,1800,https://formula-carbon.ru/katalog-materialov/vakuumnye-materialy/plenki/vakuumnyy-rukav-dlya-polyh-konstrukciy-ah-12-5/
+Yes,Bagging Sleeve,AH-25,10,210,2100,https://formula-carbon.ru/katalog-materialov/vakuumnye-materialy/plenki/vakuumnyy-rukav-dlya-polyh-konstrukciy-ah-25/
+Yes,Bag connector,T-type 6mm,10,60,600,https://formula-carbon.ru/katalog-materialov/vakuumnye-materialy/trubki-porty-konnektory/konnektory-t-tipa-6-mm/
+Yes,Peel Ply,CNR/PE 85 g/m2,2,240,480,https://formula-carbon.ru/katalog-materialov/vakuumnye-materialy/setki/peelply-zhertvennaya-tkan-cnrp/
+Yes,Bag Gum Tape,G. Angeloni AN-3-1,2,840,1680,https://formula-carbon.ru/katalog-materialov/vakuumnye-materialy/zhguty/zhgut-germetiziruyuschiy-an-3-tonkiy/
+Yes,Bag Gum Tape,BST204,2,900,1800,https://formula-carbon.ru/katalog-materialov/vakuumnye-materialy/zhguty/zhgut-chn/
+Yes,Infusion Mesh,QFM230/120,2,295,590,https://formula-carbon.ru/katalog-materialov/vakuumnye-materialy/setki/setka-bystraya/
+Yes,Absorber,Polyester absorber 150 g/m²,2,190,380,https://formula-carbon.ru/katalog-materialov/vakuumnye-materialy/setki/vpityvayuschiy-sloy-150-gm-non-woven-polyester-absorber-150-gm-/
+Yes,Vacuum Meter,ТВ-320Р,1,1690,1690,https://formula-carbon.ru/oborudovanie/vakuumnoe-oborudovanie/shlangi-porty-konnektory/vakuumetr-vibroustoychivyy/
+Yes,PE Tube,6/8mm,5,105,525,https://formula-carbon.ru/katalog-materialov/vakuumnye-materialy/trubki-porty-konnektory/shlang-dlya-vakuumnogo-nasosa-68-mm/
 Ordered,Fret Mold,04-0.88 Thickness Gages,5,324,1620,https://aliexpress.ru/item/1005004255652097.html?sku_id=12000028538628299
-Ordered,PLA Plastic,Creality PLA Black Carbon 1.75,4,1650,6600,https://market.yandex.ru/product--pla-plastik-creality-dlia-3d-printera-chernyi-karbon-1-75/979270502?cpa=1
+Yes,PLA Plastic,Creality PLA Black Carbon 1.75,4,1650,6600,https://market.yandex.ru/product--pla-plastik-creality-dlia-3d-printera-chernyi-karbon-1-75/979270502?cpa=1
 Ordered,Pump,Value VE-115N,1,5165,5165,https://aliexpress.ru/item/1005001830926270.html?sku_id=12000026905169411
-,,,,,0,
-,Hardware,,,,0,
+,,,,,,
+,Hardware,,,,,
 Ordered,Bridge,ARM W2004,2,2772,5544,https://aliexpress.ru/item/32952747847.html?sku_id=66352308879
-No,Fretwire,,,,,
-No,Nut,,,,,
-No,Truss Rod,,,,,
-No,Strap Buttons,,,,,
-No,"Bolts, Nuts",,,,,
+Ordered,Strap Buttons,GOTOH EP-B2,2,316,632,https://www.strunki.ru/index.php?q=catalog/fitting/kreplenie-remnya-srednie-gotoh-ep-b2bs
+Ordered,Strap Buttons,GOTOH EP-FR2,2,308,616,https://www.strunki.ru/index.php?q=catalog/fitting/krepleniya-remnya-gotoh-ep-fr2bs
+Ordered,Fretwire,JESCAR FW57110-EVO 30cm,5,590,2950,https://www.strunki.ru/index.php?q=catalog/fitting/fw57110-evo
+Ordered,Fretwire,SINTOMS SS277140Sw.p,1,1506,1506,https://www.strunki.ru//catalog/fitting/lady-iz-nerzhaveyushhejj-stali-shirina-2-8mm-sintoms-280140s
+Ordered,Fretwire,SINTOMS 280140Se.h.,2,620,1240,https://www.strunki.ru//catalog/fitting/sintoms-280140se.h
+Ordered,Truss Rod,CARAYA AB41 440mm,2,290,580,https://www.strunki.ru/index.php?q=catalog/fitting/truss-rod-parts
+Ordered,Truss Rod,HOSCO F-2716R,1,1947,1947,https://www.strunki.ru/index.php?q=catalog/fitting/hosco-f-2716r
+Ordered,Knob,Hosco H-MKB-19FF,2,756,1512,https://mirm.ru/catalog/products/hosco_h_mkb_19ff
+Ordered,Nut,Hosco H-NTC-9,3,244,732,https://mirm.ru/catalog/products/hosco_h_ntc_9
 ,,,,,,
 ,Electronics,,,,,
-Yes,Pickup,,,,,
+Ordered,Potentiometer,Hosco H-ALP-5001B,2,311,622,https://mirm.ru/catalog/products/hosco_h_alp_5001b
+Ordered,Jack,Hosco H-OJ-50,2,478,956,https://mirm.ru/catalog/products/hosco_h_oj_50
+Ordered,Pickup,Fokin Strike Bridge 53mm Humbucker,1,4748,4748,https://fokinpickups.com/produktsiya/humbucker/strike-bridge/
 No,Cabsim,,,,,
 No,Overdrive,,,,,
 No,Battery,,,,,
 ,,,,,,
-,,,,Total:,43214,
+,,,,Total:,61255,
